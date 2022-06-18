@@ -1,6 +1,6 @@
 ### Oi!!!👋
 
-- 🔭 Estudante de Graduação
+- 🔭 Estudante de Graduação em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JS e Python
 
 <div>
