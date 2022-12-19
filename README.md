@@ -1,8 +1,8 @@
 ```ruby
 class Duda
     def self.main()
-        say = "Hello, I\'m Eduarda!"
-        print(say,"\n")
+        say = "Hello, I'm Eduarda!"
+        print(say)
     end
 end
 
