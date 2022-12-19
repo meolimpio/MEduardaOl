@@ -1,7 +1,13 @@
-## Oi!!!👋
+```ruby
+class Duda
+    def self.main()
+        say = "Hello, I\'m Eduarda!"
+        print(say,"\n")
+    end
+end
 
-- 🔭 Estudante de Graduação em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JS e Python
+Duda.main()
+```
 
 <div>
   <a href = "https://github.com/MEduardaOl">
