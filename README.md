@@ -1,7 +1,7 @@
 ```ruby
 class Duda
     def self.main()
-        say = "Hello, I'm Eduarda!"
+        say = "Welcome my GitHub!! I'm Eduarda!"
         print(say)
     end
 end
@@ -11,8 +11,8 @@ Duda.main()
 
 <div>
   <a href = "https://github.com/meolimpio">
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=meolimpio&show_icons=true&theme=onedark"/>
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolimpio&show_icons=true&theme=onedark&layout=donut"/>
+  <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=meolimpio&show_icons=true&theme=dracula"/>
+  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolimpio&show_icons=true&theme=dracula&layout=donut"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,14 +27,14 @@ Duda.main()
   <img align="center" alt="Duda-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </div>
   
-## 
+### Contatos
  <div>
    <a href = mailto:"dudasilva160320@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="blank"></a>
    <a href = "www.linkedin.com/in/meduardaolimpio" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
    <a href = "https://leetcode.com/duda-olimpio/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="blank"></a>
 </div>
 
-### Interests
+### Interesses
   <div>
     <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
