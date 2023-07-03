@@ -1,19 +1,15 @@
-```ruby
-class Duda
-    def self.main()
-        say = "Welcome my GitHub!! I'm Eduarda!"
-        print(say)
-    end
-end
+## 💜 Olá, meu nome é <strong>Mª Eduarda!</strong>
 
-Duda.main()
+```js
+import Desenvolvedora from Duda;
+
+class SobreMim extends Desenvolvedora {
+  idade = 23;
+  area  = 'Análise e Desenvolvimento de Sistemas';
+  trabalho  = 'CtrlPlay Recife';
+}
 ```
-
-<div>
-  <a href = "https://github.com/meolimpio">
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=meolimpio&show_icons=true&theme=dracula"/>
-  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolimpio&show_icons=true&theme=dracula&layout=donut"/>
-</div>
+## 🚀 Minhas Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -26,21 +22,30 @@ Duda.main()
   <img align="center" alt="Duda-gd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
   <img align="center" alt="Duda-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </div>
+<br />
+
+## ⭐ Informações 
+<div>
+  <a href = "https://github.com/meolimpio">
+  <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=meolimpio&show_icons=true&theme=dracula"/>
+  <img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolimpio&show_icons=true&theme=dracula&layout=donut"/>
+</div>
+<br />
   
-### Contatos
+## 📞 Contatos
  <div>
    <a href = mailto:"dudasilva160320@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targert="blank"></a>
    <a href = "www.linkedin.com/in/meduardaolimpio" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
    <a href = "https://leetcode.com/duda-olimpio/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="blank"></a>
 </div>
+<br />
 
-### Interesses
+## 📖Aprendendo
   <div>
     <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </div>
-  
   
 
   
